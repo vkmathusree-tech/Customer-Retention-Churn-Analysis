@@ -1,0 +1,6 @@
+CustomerID,Age,Tenure,MonthlyCharges,Churn
+1,25,12,500,No
+2,30,3,450,Yes
+3,40,24,700,No
+4,22,2,300,Yes
+5,35,18,650,No
